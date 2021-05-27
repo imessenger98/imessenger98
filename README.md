@@ -3,7 +3,7 @@
 <br>
 </br>
 
-- 🔭 I’m currently working on a multiplayer game build using unity called theknockout.
+- 🔭 I’m currently working on a multiplayer game build using unity called the knockout.
 
 - 🌱 I’m currently learning **flutter,nodejs**.
 
