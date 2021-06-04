@@ -2,8 +2,7 @@
 <h3 align="center">frontend Web Developer, game developer🎮</h3>
 <br>
 </br>
-<p style="text-align: center;">
-- 🔭 I’m currently working on a multiplayer game build using unity called the knockout.
+<p style="text-align: center;">- 🔭 I’m currently working on a multiplayer game build using unity called the knockout.
 
 - 🌱 I’m currently learning **flutter,nodejs**.
 
