@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED YAZEEN A N</h1>
-<h3 align="center">frontend Web Developer, game developer🎮</h3>
 <br>
 </br>
 
