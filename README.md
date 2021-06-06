@@ -2,7 +2,7 @@
 <br>
 </br>
 
-- 🌱 I’m currently learning **flutter,nodejs**.
+- 🌱 I’m currently learning **unity,flutter**.
 
 - 👨‍💻 All of my projects are available at [github]([](https://github.com/messenger-1012/)).
 
