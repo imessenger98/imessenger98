@@ -2,7 +2,7 @@
 <br>
 </br>
 
-- 🌱 I’m currently learning **flutter**.
+- 🌱 I’m currently learning **React,python and nodejs**.
 
 - 👨‍💻 All of my projects are available at [github]([](https://github.com/messenger-1012/)).
 
