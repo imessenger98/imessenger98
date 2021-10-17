@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github]([](https://github.com/messenger-1012/)).
 
-- 📫 How to reach me **muhammedyaseen1012@gmail.com**.
+- 📫 How to reach me **muhammedyazeenan@duck.com**.
 
 - 📄 Know about my experiences [resume/cv](http://muhammedyazeenan.live/).
 - 😄 Pronouns: messenger_1012,messenger-1012.
@@ -33,5 +33,4 @@
 
 #### Bizness
 - paperclip: [My Resume/CV](https://muhammedyazeenan.live/mycv.pdf)
-- email: muhammedyaseen1012@gmail.com
-
+- email:muhammedyazeenan@duck.com
