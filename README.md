@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammedyazeenan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedyazeenan/) [![Mail Badge](https://img.shields.io/badge/-@messenger_1012-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/messenger_1012/) [![Mail Badge](https://img.shields.io/badge/-muhammedyaseen1012@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muhammedyaseen1012@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammedyazeenan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedyazeenan/) [![Mail Badge](https://img.shields.io/badge/-@messenger_1012-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/messenger_1012/) [![Mail Badge](https://img.shields.io/badge/-muhammedyazeenan@duck.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muhammedyazeenan@duck.com)
 <br>
 <br>
 
