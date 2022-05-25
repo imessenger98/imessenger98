@@ -34,5 +34,5 @@
 #### Bizness
 - paperclip: [My Resume/CV](https://muhammedyazeenan.live/mycv.pdf)
 - email:muhammedyazeenan@duck.com
--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammedyazeenan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muhammedyazeenan?trk=profile-badge">MUHAMMED YAZEEN AN</a></div>
+- Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammedyazeenan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muhammedyazeenan?trk=profile-badge">MUHAMMED YAZEEN AN</a></div>
               
