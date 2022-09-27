@@ -29,8 +29,7 @@
 <h3 align="left">Stat:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messenger-1012&" alt="messenger-1012" /></p>
 <br>
-[![@messenger_1012's Holopin board](https://holopin.io/api/user/board?user=messenger_1012)](https://holopin.io/@messenger_1012)
-
+<p>[![@messenger_1012's Holopin board](https://holopin.io/api/user/board?user=messenger_1012)](https://holopin.io/@messenger_1012)<p>
 <br>
 
 #### Bizness
