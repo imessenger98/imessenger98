@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/messenger_1012"><img  src="https://api.daily.dev/devcards/583ef8cef83a4a20b3d5dde424392f23.png?r=os1" width="400" align=right alt="MUHAMMED YAZEEN A N's Dev Card"/></a>
 <br>
 <br>
-<h4 align="center">  Welcome to my GitHub profile! I'm a passionate MERN stack and Python developer, and you can find my latest projects and repositories here. Looking forward to collaborating with you :)
+<h5 align="center" style="margin:5px;">  Welcome to my GitHub profile! I'm a passionate MERN stack and Python developer, and you can find my latest projects and repositories here. Looking forward to collaborating with you ☺️
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -33,4 +33,3 @@
 
 <h3 align="center">Support 🙌:</h3>
 <p align="center" ><a href="https://www.buymeacoffee.com/messenger.1012"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="messenger.1012" /></a></p><br><br>
-
