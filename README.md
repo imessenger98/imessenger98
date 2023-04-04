@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/messenger_1012"><img  src="https://api.daily.dev/devcards/583ef8cef83a4a20b3d5dde424392f23.png?r=os1" width="400" align=right alt="MUHAMMED YAZEEN A N's Dev Card"/></a>
 <br>
 <br>
-<h5 align="center" style="margin:5px;">  Welcome to my GitHub profile! I'm a passionate MERN stack and Python developer, and you can find my latest projects and repositories here. Looking forward to collaborating with you ☺️
+<h4 align="center" style="margin:5px;">  Welcome to my GitHub profile! I'm a passionate 🚀 MERN stack and 🐍 Python developer, and you can find my latest projects and repositories here. Looking forward to collaborating with you 😎
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
