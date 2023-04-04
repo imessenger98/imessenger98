@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED YAZEEN A N
-<h5 align="center">Full stack developer | React JS | Node JS | JavaScript | Python | Linux</h5>
+<h5 align="center"> | Full stack developer | React JS | Node JS | JavaScript | Python | Linux |</h5>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=messenger-1012&label=Profile%20views&color=0e75b6&style=flat" alt="messenger-1012" /> 
 <br>
