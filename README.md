@@ -33,7 +33,7 @@
 <br>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=imessenger98&" alt="imessenger98" /></p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imessenger98" alt="imessenger98" /></a> </p>
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imessenger98" alt="imessenger98" /></a> </p>
+ -->
 <h3 align="center">Support 🙌:</h3>
 <p align="center" ><a href="https://www.buymeacoffee.com/messenger.1012"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="messenger.1012" /></a></p><br><br>
