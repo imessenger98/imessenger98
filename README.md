@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=messenger-1012&label=Profile%20views&color=0e75b6&style=flat" alt="messenger-1012" /> 
 <br>
 <br>
-<a href="https://app.daily.dev/messenger_1012"><img  src="https://api.daily.dev/devcards/583ef8cef83a4a20b3d5dde424392f23.png?r=os1" width="300" align=right alt="MUHAMMED YAZEEN A N's Dev Card"/></a>
+<a href="https://app.daily.dev/messenger_1012"><img  src="https://api.daily.dev/devcards/583ef8cef83a4a20b3d5dde424392f23.png?r=os1" width="250" align=right alt="MUHAMMED YAZEEN A N's Dev Card"/></a>
 <br>
 <br>
  
