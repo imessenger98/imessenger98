@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED YAZEEN A N
 <h5 align="center"> | Full stack developer | React JS | Node JS | JavaScript | Python | Linux |</h5>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=messenger-1012&label=Profile%20views&color=0e75b6&style=flat" alt="messenger-1012" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imessenger98&label=Profile%20views&color=0e75b6&style=flat" alt="imessenger98" /> 
 <br>
 <br>
 <a href="https://app.daily.dev/messenger_1012"><img  src="https://api.daily.dev/devcards/583ef8cef83a4a20b3d5dde424392f23.png?r=os1" width="325" align=right alt="MUHAMMED YAZEEN A N's Dev Card"/></a>
